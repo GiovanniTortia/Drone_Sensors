@@ -1,3 +1,7 @@
-- MPU6050:
+- MPU6050 (Accelerometro + Giroscopio):
   - datasheet: https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
   - register map: https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf
+- BMP280 (Barometro):
+  - https://cdn-shop.adafruit.com/datasheets/BST-BMP280-DS001-11.pdf
+- QMC5883L (Magnetometro):
+  - https://www.qstcorp.com/upload/pdf/202202/%EF%BC%88%E5%B7%B2%E4%BC%A0%EF%BC%8913-52-04%20QMC5883L%20Datasheet%20Rev.%20A(1).pdf
